@@ -390,7 +390,7 @@ pip install -r requirements.txt --force-reinstall
 
 ## 📧 Contact & Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: 23bds032@iiitdwd.ac.in
 - 🐛 Issues: [GitHub Issues](https://github.com/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation/discussions)
 
