@@ -14,7 +14,10 @@
 </div>
 
 ---
-
+##🤝 Team Members
+- 🎓 Manikesh Kumar , 23BDS032
+- 🎓 Amarjeet Raj , 23BDS006
+- 🎓 Ojas Jogdand , 23BDS039
 ## 📋 Table of Contents
 
 - [✨ Features](#-features)
@@ -401,7 +404,7 @@ This project is licensed under the *MIT License* - see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-### Made with ❤ by [Your Name]
+### Made with ❤ by [Manikesh Kumar, Amarjeet Raj, Ojas Jogdand]
 
 ⭐ *If you found this helpful, please give it a star!* ⭐
 
