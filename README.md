@@ -1,4 +1,4 @@
-# 🚀 AI Resume Ranker
+# 🚀 AI Resume Ranker and Test Evaluator (Complete hiring process)
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-*Intelligent Resume Ranking System Powered by Machine Learning & Apache Spark* 🤖✨
+*Intelligent Resume Ranking System Powered by Machine Learning & Big Data log of Test Evaluation using Apache Spark* 🤖✨
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Usage](#-usage) • [Results](#-results)
 
