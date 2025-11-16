@@ -61,40 +61,43 @@ Before you begin, ensure you have the following installed:
 
 ### Step 1️⃣: Clone the Repository
 
-bash
+```bash
 git clone https://github.com/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation.git
 cd AI-Resume-Ranker
-
+```
 
 ### Step 2️⃣: Create a Virtual Environment
 
 bash
 # On Windows
+```
 python -m venv venv
 venv\Scripts\activate
+```
 
 # On macOS/Linux
+```
 python3 -m venv venv
 source venv/bin/activate
-
+```
 
 ### Step 3️⃣: Install Dependencies
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ### Step 4️⃣: Install PySpark & Additional Tools
 
-bash
+```bash
 pip install pyspark findspark
-
+```
 
 ### Step 5️⃣: Verify Installation
 
-bash
+```bash
 python -c "import pyspark; print(f'PySpark {pyspark.__version__} installed successfully! ✅')"
-
+```
 
 ---
 
