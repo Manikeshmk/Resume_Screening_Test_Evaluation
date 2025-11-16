@@ -1,0 +1,13 @@
+
+Priya Singh
+Email: priya@example.com
+
+Experience:
+- Data Scientist at AnalyticsCo (2021-2024) — 3 years experience in ML and data analysis.
+
+Skills:
+Python, Machine Learning, Pandas, NumPy, SQL, Git
+
+Education:
+B.Tech Computer Science — 2020
+Percentage: 78%

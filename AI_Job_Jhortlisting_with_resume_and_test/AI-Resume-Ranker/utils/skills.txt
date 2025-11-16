@@ -1,0 +1,23 @@
+
+python
+java
+c++
+c
+sql
+machine learning
+deep learning
+tensorflow
+pytorch
+docker
+kubernetes
+git
+react
+nlp
+computer vision
+data science
+pandas
+numpy
+scikit-learn
+aws
+azure
+gcp

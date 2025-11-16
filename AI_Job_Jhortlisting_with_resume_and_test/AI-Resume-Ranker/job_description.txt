@@ -1,0 +1,11 @@
+
+Role: Machine Learning Engineer
+
+We are hiring a Machine Learning Engineer to build and productionize ML models.
+
+Responsibilities:
+- Work on ML model development, data pipelines and model deployment.
+- Collaborate with cross-functional teams and provide technical leadership.
+
+Required: Python, Machine Learning, Deep Learning, SQL, Git
+Preferred: TensorFlow, PyTorch, Docker, Kubernetes

@@ -1,0 +1,4 @@
+rank,filename,candidate_name,resume_percent,test_score,test_percent,combined_percent,cheated,selected,reasons
+1,rohan_sharma.json,Rohan Sharma,0.705,50.0,1.0,0.8525,False,True,
+2,priya_singh.json,priya Sharma,0.555,50.0,1.0,0.7775000000000001,True,False,Cheated on MCQ mcq3 (time 0s < 8s); Cheated on MCQ mcq8 (time 7s < 8s)
+3,ankit_verma.json,ankit Sharma,0.705,38.0,0.76,0.7324999999999999,False,True,

@@ -1,0 +1,7 @@
+name,file_path,skills_found,skill_match,experience_years,education_level,grade_score,total_score,rejected
+aman,resumes\aman.txt,"c, deep learning, docker, git, machine learning, python, sql, tensorflow",1.0,5,masters,0.5,0.705,False
+rohan_sharma,resumes\rohan_sharma.txt,"c, deep learning, docker, git, machine learning, python, sql, tensorflow",1.0,5,masters,0.5,0.705,False
+Nachiket_Resume_ML_DS (1),resumes\Nachiket_Resume_ML_DS (1).pdf,"c, c++, data science, deep learning, git, java, machine learning, python, pytorch, sql",1.0,1,masters,0.5,0.645,False
+priya_singh,resumes\priya_singh.txt,"c, git, machine learning, numpy, pandas, python, sql",0.8,3,bachelors,0.5,0.555,False
+1724702485198,resumes\1724702485198.pdf,"aws, c, c++, deep learning, docker, git, java, python, react, sql",0.8,0,masters,0.5,0.53,False
+resume (2),resumes\resume (2).pdf,"aws, c, c++, docker, git, java, machine learning, numpy, pandas, python, react, scikit-learn, sql, tensorflow",0.8,0,masters,0.5,0.53,False

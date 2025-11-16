@@ -1,0 +1,9 @@
+
+scikit-learn
+pandas
+PyPDF2
+python-docx
+numpy
+fastapi
+uvicorn
+python-multipart

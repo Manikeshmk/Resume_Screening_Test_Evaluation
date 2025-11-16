@@ -1,0 +1,13 @@
+aman Sharma
+Email: rohan@example.com
+
+Experience:
+- ML Engineer at XYZ (2019-2024) — 5 years of experience building ML models and pipelines.
+- Internship at DataCorp (2018) — worked on data cleaning.
+
+Skills:
+Python, Machine Learning, Deep Learning, TensorFlow, SQL, Git, Docker
+
+Education:
+M.Tech in Computer Science — 2018
+GPA: 8.5/10

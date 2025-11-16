@@ -1,0 +1,13 @@
+
+Rohan Verma
+Email: amit@example.com
+
+Experience:
+- Junior Developer (2022-2023) — worked on web apps.
+
+Skills:
+Java, React, SQL, Docker, Git,
+
+Education:
+B.Sc. Computer Science — 2019
+Percentage: 65%
