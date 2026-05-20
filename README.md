@@ -1,4 +1,4 @@
-![Repo visits](https://hits.sh/github.com/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation.svg?label=repo%20visits)
+![Repo visits](https://hits.sh/github.com/Manikeshmk/Resume_Screening_Test_Evaluation.svg?label=repo%20visits)
 ![GitHub stars](https://img.shields.io/github/stars/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation?style=logo&logo=github&label=⭐%20Stars) 
 ![GitHub forks](https://img.shields.io/github/forks/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation?style=social)
 
