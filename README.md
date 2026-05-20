@@ -1,3 +1,8 @@
+![Repo visits](https://hits.sh/github.com/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation.svg?label=repo%20visits)
+![GitHub stars](https://img.shields.io/github/stars/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation?style=logo&logo=github&label=⭐%20Stars) 
+![GitHub forks](https://img.shields.io/github/forks/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation?style=social)
+
+
 # 🚀 AI Resume Ranker and Test Evaluator (Complete hiring process)
 
 <div align="center">
@@ -8,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 *Intelligent Resume Ranking System Powered by Machine Learning & Big Data log of Test Evaluation using Apache Spark* 🤖✨
-![Demo Video 2 minutes](https://drive.google.com/file/d/13w5L_U0GtB8OlN6hEp5O71lefzz7ubo3/view?usp=sharing)💾💻⭐
+![Demo Video 2 minutes](https://github.com/DataScience-ArtificialIntelligence/Resume_Screening_Test_Evaluation/blob/main/2minutes_Video_Demo.mp4)💾💻⭐
 
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Usage](#-usage) • [Results](#-results)
